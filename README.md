@@ -1,2 +1,2 @@
 # bst
-Binary Search Tree Insertion, Deletion, Searching and Traversal C++
+Binary Search Tree Insertion, Deletion, Searching and Traversal using  C
